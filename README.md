@@ -36,5 +36,5 @@ Blue Team | Vulnerability Management | SIEM | Networking
 [Infrastructure Deployments]
 
 > Connect
-LinkedIn
-TryHackMe
+LinkedIn https://www.linkedin.com/in/brandonbejsovec/
+TryHackMe https://tryhackme.com/p/Bejs
