@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+┌──(brandon㉿github)-[~/profile]
+└─$ whoami
+
+Cybersecurity & Cloud Professional
+Blue Team | Vulnerability Management | SIEM | Networking
+
+> Certifications Loaded...
+[Security+] [CySA+] [CCNA] [CAPM]
+
+> Current Focus
+- Vulnerability Management
+- Security Operations
+- Microsoft Sentinel
+- Microsoft Defender
+- Threat Detection Engineering
+
+> Projects
+[Vulnerability Management]
+[Incident Response Labs]
+[Infrastructure Deployments]
+
+> Connect
+LinkedIn
+TryHackMe
