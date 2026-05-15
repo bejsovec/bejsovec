@@ -21,8 +21,9 @@ Cybersecurity & Cloud Professional
 Blue Team | Vulnerability Management | SIEM | Networking
 
 > Certifications Loaded...
-[Security+] [CySA+] [CCNA] [CAPM]
 
+[Security+] [CySA+] [CCNA] [CAPM] [A+] [Network+]
+ 
 > Current Focus
 - Vulnerability Management
 - Security Operations
