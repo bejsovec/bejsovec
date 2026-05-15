@@ -1,4 +1,4 @@
-## ┌──(brandon㉿github)-[~/profile]
+## ┌──(brandon@github)-[~/profile]
 
 └─$ whoami
 
