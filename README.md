@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ┌──(brandon㉿github)-[~/profile]
+
 └─$ whoami
 
 Cybersecurity & Cloud Professional
