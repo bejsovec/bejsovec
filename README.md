@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 └─$ whoami
 
 Cybersecurity & Cloud Professional
+
 Blue Team | Vulnerability Management | SIEM | Networking
 
 > Certifications Loaded...
