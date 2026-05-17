@@ -1,7 +1,6 @@
-## ┌──(brandon@github)-[~/profile]
+Brandon
 
-└─$ whoami
-
+---
 
 <!--
 **bejsovec/bejsovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +21,13 @@ Here are some ideas to get you started:
 
 Blue Team | Vulnerability Management | SIEM | Networking
 
+---
+
 > Certifications Loaded...
 
 [Security+] [CySA+] [CCNA] [CAPM] [A+] [Network+]
+
+---
  
 > Current Focus
 - Vulnerability Management
@@ -33,6 +36,8 @@ Blue Team | Vulnerability Management | SIEM | Networking
 - Microsoft Defender
 - Threat Detection Engineering
 
+- ---
+
 > Projects
 
 [Vulnerability Management]
@@ -40,6 +45,8 @@ Blue Team | Vulnerability Management | SIEM | Networking
 [Incident Response Labs]
 
 [Infrastructure Deployments]
+
+---
 
 > Connect
 
