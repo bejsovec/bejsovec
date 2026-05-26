@@ -8,28 +8,28 @@ Brandon
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
-> Cybersecurity & Cloud Professional
+<h2>🤔 Cybersecurity & Cloud Professional</h2> 
 
 Blue Team | Vulnerability Management | SIEM | Networking
 
 ---
 
-> Certifications Loaded...
+<h2> 🌱 Certifications Loaded...</h2>
 
 [Security+] [CySA+] [CCNA] [CAPM] [A+] [Network+]
 
 ---
  
-> Current Focus
+<h2>⚡Current Focus</h2> 
 - Vulnerability Management
 - Security Operations
 - Microsoft Sentinel
@@ -37,22 +37,13 @@ Blue Team | Vulnerability Management | SIEM | Networking
 - Threat Detection Engineering
 
 - ---
-<!--
-> Projects
-
-**[Vulnerability Management](https://github.com/bejsovec/Vulnerability-Management-Program-)**
-
-[Incident Response Labs]
-
-[Infrastructure Deployments]
--->
-<h2>🚀 Mission Files — Live Projects</h2>
+<h2>🚀 CyberSecurity Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🔵 Vulnerabiltiy Management Program Implementation 
+### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerabiltiy Management Program Implementation </a>
 ⚡ Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
@@ -82,43 +73,9 @@ Blue Team | Vulnerability Management | SIEM | Networking
   </tr>
 </table>
 
-<!--
-
-<div style="display: flex; gap: 16px;">
-
-<div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
-
-### 🔵 Azure SOC Honeynet  
-⚡ Real-time SOC in Azure  
-- Sentinel + KQL  
-- Honeypot VMs  
-- Live attack telemetry  
-
-<img src="https://link-to-image" width="100%"/>
-
-<a href="https://github.com/yourrepo">View Repository</a>
-
-</div>
-
-<div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
-
-### 🔴 Ransomware IR  
-⚡ Full attack chain analysis  
-- Sysmon + logs  
-- DFIR workflow  
-- MITRE ATT&CK mapping  
-
-<img src="https://link-to-image" width="100%"/>
-
-<a href="https://github.com/yourrepo">View Repository</a>
-
-</div>
-
-</div>
--->
 ---
 
-> Connect
+<h2>📫 Connect</h2> 
 
 LinkedIn https://www.linkedin.com/in/brandonbejsovec/
 
