@@ -1,4 +1,4 @@
-Brandon
+<h1>Brandon Bejsovec </h1>
 
 ---
 
@@ -23,9 +23,13 @@ Blue Team | Vulnerability Management | SIEM | Networking
 
 ---
 
-<h2> 🌱 Certifications Loaded...</h2>
+<h2> 🌱 Certifications & Degree Loaded...</h2>
 
 [Security+] [CySA+] [CCNA] [CAPM] [A+] [Network+]
+
+Highest level of degree: MS in Information Technology Management
+
+Also have: BS in Information Technology Systems and BS in Software Development
 
 ---
  
