@@ -47,7 +47,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
   <tr>
     <td width="50%" valign="top">
 
-### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerabiltiy Management Program Implementation </a>
+### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerability Management Program Implementation </a>
 ⚡ Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
