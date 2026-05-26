@@ -60,8 +60,7 @@ Blue Team | Vulnerability Management | SIEM | Networking
 
 <img src="https://github.com/user-attachments/assets/599d658d-3f6b-4c12-a81a-1e94d5da4b6e" width="100%"/>
 
-
-<a href="[https://github.com/yourrepo](https://github.com/bejsovec/Vulnerability-Management-Program-)">View Repository</a>
+<a href="https://github.com/bejsovec/Vulnerability-Management-Program-">View Repository</a>
 
   </td>
   <td width="50%" valign="top">
@@ -70,12 +69,12 @@ Blue Team | Vulnerability Management | SIEM | Networking
 
 ### 🔴 Threat Hunting Final Project Overview
 ⚡ Full attack chain analysis  
-- Simulated threat hunting exercise using Microsoft Defender for Endpoint (MDE) logs.
-- Includes attacker activity generation followed by investigative hunting and timeline reconstruction.
-- Ends with a full incident report detailing findings, impact, and response actions.
+- Attacker activity generation
+- Investigation and timeline reconstruction
+- Findings, impact, response actions
 
 
-<img src="https://link-to-image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/f8b6b53e-7459-42e6-9688-328e0c9b606f" width="100%"/>
 
 <a href="https://github.com/yourrepo">View Repository</a>
 
