@@ -48,9 +48,9 @@ Blue Team | Vulnerability Management | SIEM | Networking
 -->
 <h2>🚀 Mission Files — Live Projects</h2>
 
-<div style="display: flex; gap: 16px;">
-
-<div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🔵 Vulnerabiltiy Management Program Implementation 
 ⚡ Finding vulnerabilities in Tenable
@@ -58,12 +58,13 @@ Blue Team | Vulnerability Management | SIEM | Networking
 - Bring teams together  
 - Reduce attack vectors
 
-<img src="<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/599d658d-3f6b-4c12-a81a-1e94d5da4b6e" />
-" width="100%"/>
+<img src="https://github.com/user-attachments/assets/599d658d-3f6b-4c12-a81a-1e94d5da4b6e" width="100%"/>
+
 
 <a href="[https://github.com/yourrepo](https://github.com/bejsovec/Vulnerability-Management-Program-)">View Repository</a>
 
-</div>
+  </td>
+  <td width="50%" valign="top">
 
 <div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
 
@@ -73,13 +74,14 @@ Blue Team | Vulnerability Management | SIEM | Networking
 - Includes attacker activity generation followed by investigative hunting and timeline reconstruction.
 - Ends with a full incident report detailing findings, impact, and response actions.
 
+
 <img src="https://link-to-image" width="100%"/>
 
 <a href="https://github.com/yourrepo">View Repository</a>
 
-</div>
-
-</div>
+  </td>
+  </tr>
+</table>
 
 <!--
 
