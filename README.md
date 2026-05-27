@@ -62,7 +62,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 <div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
 
-### 🔴 Threat Hunting Final Project Overview
+### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">🔴 Threat Hunting Final Project Overview</a>
 ⚡ Full attack chain analysis  
 - Attacker activity generation
 - Investigation and timeline reconstruction
@@ -71,7 +71,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 <img src="https://github.com/user-attachments/assets/f8b6b53e-7459-42e6-9688-328e0c9b606f" width="100%"/>
 
-<a href="https://github.com/yourrepo">View Repository</a>
+<a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">View Repository</a>
 
   </td>
   </tr>
