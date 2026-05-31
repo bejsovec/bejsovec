@@ -2,21 +2,6 @@
 
 ---
 
-<!--
-**bejsovec/bejsovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- I’m looking for help with ...
-- 💬 Ask me about ...
-How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
-
 <h2>🤔 Cybersecurity & Cloud Professional</h2> 
 
 Blue Team | Vulnerability Management | SIEM | Networking
@@ -80,7 +65,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
   <tr>
     <td width="50%" valign="top">
 
-### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔐 DISA STIG Remediation Repository </a>
+### <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">🔐 DISA STIG Remediation Repository </a>
 ⚡ Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
@@ -88,7 +73,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 <img src="https://github.com/user-attachments/assets/49789ef1-604f-46d6-ae84-83de3fd9d490" width="100%"/>
 
-<a href="https://github.com/bejsovec/Vulnerability-Management-Program-">View Repository</a>
+<a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">View Repository</a>
 
   </td>
   <td width="50%" valign="top">
