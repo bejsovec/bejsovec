@@ -47,7 +47,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
   <tr>
     <td width="50%" valign="top">
 
-### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerability Management Program Implementation </a>
+### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerability Management Program</a>
 ⚡ Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
@@ -67,13 +67,35 @@ Also have: BS in Information Technology Systems and BS in Software Development
 - Attacker activity generation
 - Investigation and timeline reconstruction
 - Findings, impact, response actions
-
-
-<img src="https://github.com/user-attachments/assets/f8b6b53e-7459-42e6-9688-328e0c9b606f" width="100%"/>
+  
+<img src="https://github.com/user-attachments/assets/229fb321-f847-4975-b682-29c38fc67c16" width="100%"/>
 
 <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">View Repository</a>
 
   </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔐 DISA STIG Remediation Repository </a>
+⚡ Finding vulnerabilities in Tenable
+- Create the policy
+- Bring teams together  
+- Reduce attack vectors
+
+<img src="https://github.com/user-attachments/assets/49789ef1-604f-46d6-ae84-83de3fd9d490" width="100%"/>
+
+<a href="https://github.com/bejsovec/Vulnerability-Management-Program-">View Repository</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+<div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
+
+</td>
   </tr>
 </table>
 
