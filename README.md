@@ -2,13 +2,13 @@
 
 ---
 
-<h2>🤔 Cybersecurity & Cloud Professional</h2> 
+<h2>Cybersecurity & Cloud Professional</h2> 
 
 Blue Team | Vulnerability Management | SIEM | Networking
 
 ---
 
-<h2> 🌱 Certifications & Degree Loaded...</h2>
+<h2>Certifications & Degree Loaded...</h2>
 
 [Security+] [CySA+] [CCNA] [CAPM] [A+] [Network+]
 
@@ -18,7 +18,7 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 ---
  
-<h2>⚡Current Focus</h2> 
+<h2>Current Focus</h2> 
 - Vulnerability Management
 - Security Operations
 - Microsoft Sentinel
@@ -26,20 +26,17 @@ Also have: BS in Information Technology Systems and BS in Software Development
 - Threat Detection Engineering
 
 - ---
-<h2>🚀 CyberSecurity Projects</h2>
+<h2>CyberSecurity Projects</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">🔵 Vulnerability Management Program</a>
-⚡ Finding vulnerabilities in Tenable
+### <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">Vulnerability Management Program</a>
+Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
 - Reduce attack vectors
-
-<img src="https://github.com/user-attachments/assets/599d658d-3f6b-4c12-a81a-1e94d5da4b6e" width="100%"/>
-
 <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">View Repository</a>
 
   </td>
@@ -47,31 +44,25 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 <div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
 
-### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">🔴 Threat Hunting Final Project Overview</a>
-⚡ Full attack chain analysis  
+### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">Threat Hunting Final Project Overview</a>
+Full attack chain analysis  
 - Attacker activity generation
 - Investigation and timeline reconstruction
 - Findings, impact, response actions
   
-<img src="https://github.com/user-attachments/assets/229fb321-f847-4975-b682-29c38fc67c16" width="100%"/>
-
 <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">View Repository</a>
 
   </td>
   </tr>
-</table>
 
-<table>
-  <tr>
+   <tr>
     <td width="50%" valign="top">
 
-### <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">🔐 DISA STIG Remediation Repository </a>
-⚡ Finding vulnerabilities in Tenable
-- Create the policy
-- Bring teams together  
-- Reduce attack vectors
-
-<img src="https://github.com/user-attachments/assets/49789ef1-604f-46d6-ae84-83de3fd9d490" width="100%"/>
+### <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">DISA STIG Remediation Repository </a>
+PLACEHOLDER
+- PLACEHOLDER
+- PLACEHOLDER
+- PLACEHOLDER
 
 <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">View Repository</a>
 
@@ -80,7 +71,15 @@ Also have: BS in Information Technology Systems and BS in Software Development
 
 <div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
 
-</td>
+### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">PLACEHOLDER</a>
+PLACEHOLDER 
+- PLACEHOLDER
+- PLACEHOLDER
+- PLACEHOLDER
+  
+<a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">View Repository</a>
+
+  </td>
   </tr>
 </table>
 
