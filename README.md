@@ -85,7 +85,7 @@ PLACEHOLDER
 
 ---
 
-<h2>📫 Connect</h2> 
+<h2>Connect</h2> 
 
 LinkedIn https://www.linkedin.com/in/brandonbejsovec/
 
