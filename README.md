@@ -37,7 +37,7 @@ Finding vulnerabilities in Tenable
 - Create the policy
 - Bring teams together  
 - Reduce attack vectors
-- 
+  
 <a href="https://github.com/bejsovec/Vulnerability-Management-Program-">View Repository</a>
 
   </td>
