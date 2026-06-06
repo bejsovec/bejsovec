@@ -45,7 +45,7 @@ Finding vulnerabilities in Tenable
 
 <div style="flex: 1; border: 1px solid #333; padding: 12px; border-radius: 10px;">
 
-### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">Threat Hunting Final Project Overview</a>
+### <a href="https://github.com/bejsovec/threat-hunting-scenario-tor/tree/main">Threat Hunting Project</a>
 Full attack chain analysis  
 - Attacker activity generation
 - Investigation and timeline reconstruction
@@ -60,10 +60,10 @@ Full attack chain analysis
     <td width="50%" valign="top">
 
 ### <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">DISA STIG Remediation Repository </a>
-PLACEHOLDER
-- PLACEHOLDER
-- PLACEHOLDER
-- PLACEHOLDER
+Automates STIG compliance across enterprise endpoints.
+- Centralized fixes
+- Audit-ready
+- Faster hardening
 
 <a href="https://github.com/bejsovec/STIG-REMEDIATION-WIN11">View Repository</a>
 
