@@ -2,7 +2,7 @@
 
 ---
 
-<h2>Cybersecurity & Cloud Professional</h2> 
+<h2>Cybersecurity | Infrastructure | Cloud Professional</h2> 
 
 Blue Team | Vulnerability Management | SIEM | Networking
 
